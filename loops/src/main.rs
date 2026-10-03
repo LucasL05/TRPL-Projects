@@ -33,7 +33,7 @@ fn print_the_twelve_days_of_christmas() {
             println!("Twelve drummers drumming");
         }
         if day >= 10 {
-            println!("Eleven piper piping");
+            println!("Eleven pipers piping");
         }
         if day >= 9 {
             println!("Ten lords a-leaping");
