@@ -1,5 +1,5 @@
 pub fn add_two(a: u64) -> u64 {
-    a + 3
+    a + 2
 }
 
 #[cfg(test)]
